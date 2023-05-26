@@ -1,4 +1,4 @@
-## Zoksh
+## Zoksh Ruby SDK
 
 Zoksh is a Ruby gem that provides integration with the Lightning Network for asset transfer and cross-chain payments.
 

@@ -85,7 +85,7 @@ $ rake test
 This will run the test cases and provide the test results.
 
 ### Contributing
-Bug reports and pull requests are welcome on GitHub at https://github.com/your_username/zoksh.
+Bug reports and pull requests are welcome on GitHub at https://github.com/MuLx10/zoksh-ruby.
 
 ### License
 The gem is available as open source under the terms of the MIT License."
